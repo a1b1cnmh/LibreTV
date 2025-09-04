@@ -48,7 +48,7 @@ const CUSTOMER_SITES = {
         api: 'https://wolongzyw.com',
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
-    },
+    }
 };
 
 // 调用全局方法合并
