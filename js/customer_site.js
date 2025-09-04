@@ -32,7 +32,7 @@ const CUSTOMER_SITES = {
         api: 'https://jszyapi.com',
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
-        detail: 'https://jszyapi.com'
+        detail: 'https://jszyapi.com',
         detail: 'https://jszyapi.com', 
     },
     zy360: {
