@@ -50,7 +50,7 @@ const CUSTOMER_SITES = {
         api: 'https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json',
         name: '豪华资源',
     },
-     haohua: {
+   liangzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8',
         name: '量子资源',
     },
