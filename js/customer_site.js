@@ -48,6 +48,10 @@ const CUSTOMER_SITES = {
         api: 'https://wolongzyw.com',
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
+    },
+     maotai: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8',
+        name: '茅台资源',
     }
 };
 
