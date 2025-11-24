@@ -56,7 +56,8 @@ const CUSTOMER_SITES = {
         name: '电影天堂',
     },
      bfzy: {
-        api: 'https://bfzyapi.com',
+        api: 'https://app.bfzyapi.com/api.php/provide/vod',
+        api: 'http://by.bfzyapi.com/api.php/provide/vod',
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
     },
