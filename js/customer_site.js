@@ -248,11 +248,11 @@ const CUSTOMER_SITES = {
         name: '牛牛资源',
     },
     OK: {
-        api: 'https://api.okzyw.net/api.php/provide/vod/from/okm3u8',
-        api: 'https://www.okzyw.net/api.php/provide/vod/from/okm3u8',
-        api: 'https://okzyw.net/api.php/provide/vod/from/okm3u8',
-        api: 'https://okzyw.cc/api.php/provide/vod/from/okm3u8',
-        api: 'https://www.okzyw.cc/api.php/provide/vod/from/okm3u8',
+        api: 'https://api.okzyw.net/api.php/provide/vod/from/okm3u8/at/json',
+        api: 'https://www.okzyw.net/api.php/provide/vod/from/okm3u8/at/json',
+        api: 'https://okzyw.net/api.php/provide/vod/from/okm3u8/at/json',
+        api: 'https://okzyw.cc/api.php/provide/vod/from/okm3u8/at/json',
+        api: 'https://www.okzyw.cc/api.php/provide/vod/from/okm3u8/at/json',
         name: 'OK资源',
     }
 };
