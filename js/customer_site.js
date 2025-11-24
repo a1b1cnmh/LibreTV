@@ -62,7 +62,12 @@ const CUSTOMER_SITES = {
         name: '暴风资源',
     },
     tyyszy: {
-        api: 'https://tyyszy.com',
+        api: 'https://tyyszy5.com/api.php/provide/vod',
+        api: 'https://tyyszy1.com/api.php/provide/vod',
+        api: 'https://tyyszy2.com/api.php/provide/vod',
+        api: 'https://tyyszy3.com/api.php/provide/vod',
+        api: 'https://tyyszy4.com/api.php/provide/vod',
+        api: 'https://tyyszyapi.com/api.php/provide/vod',
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
