@@ -4,6 +4,10 @@ const CUSTOMER_SITES = {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
     },
+     taopian: {
+        api: 'https://taopianapi.com/cjapi/mc/vod/json/m3u8.html',
+        name: '淘片资源',
+    },
      dyttzy: {
         api: 'http://caiji.dyttzyapi.com',
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
@@ -22,6 +26,7 @@ const CUSTOMER_SITES = {
      ffzy: {
         api: 'https://api.ffzyapi.com/api.php/provide/vod',
         api: 'http://ffzy5.tv/api.php/provide/vod',
+        api: 'http://cj.ffzyapi.com/api.php/provide/vod',
         name: '非凡资源',
     },
    jisu: {
@@ -34,16 +39,32 @@ const CUSTOMER_SITES = {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
     },
+    zy36: {
+        api: 'https://360zy.com',
+        api: 'https://360zyzz.com/api.php/provide/vod',
+        name: '360影视',
+    },
     iqiyi: {
         api: 'https://iqiyizyapi.com/api.php/provide/vod',
         name: 'iqiyi资源',
     },
      wolong: {
+         api: 'https://wolongzy.cc/api.php/provide/vod',
+         api: 'https://collect.wolongzy.cc/api.php/provide/vod',
          api: 'https://collect.wolongzyw.com/api.php/provide/vod',
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
     },
      maotai: {
+         api: 'https://mtzy7.com/api.php/provide/vod/from/mtm3u8',
+         api: 'https://mtzy6.com/api.php/provide/vod/from/mtm3u8',
+         api: 'https://mtzy5.com/api.php/provide/vod/from/mtm3u8',
+         api: 'https://mtzy4.com/api.php/provide/vod/from/mtm3u8',
+         api: 'https://mtzy3.com/api.php/provide/vod/from/mtm3u8',
+         api: 'https://mtzy2.com/api.php/provide/vod/from/mtm3u8',
+         api: 'https://mtzy1.com/api.php/provide/vod/from/mtm3u8',
+         api: 'https://mtzy0.com/api.php/provide/vod/from/mtm3u8',
+         api: 'https://mtzy.me/api.php/provide/vod/from/mtm3u8',
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8',
         name: '茅台资源',
     },
@@ -68,6 +89,7 @@ const CUSTOMER_SITES = {
         name: '红牛资源',
     },
       dbzy: {
+           api: 'https://caiji.dbzy.tv/api.php/provide/vod/at/json/',
         api: 'https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8',
         name: '豆瓣资源',
     },
@@ -97,12 +119,9 @@ const CUSTOMER_SITES = {
         name: '最大影视',
     },
      wujin: {
+        api: 'https://api.wujinapi.com/api.php/provide/vod',
         api: 'https://api.wujinapi.me/api.php/provide/vod',
         name: '无尽资源',
-    },
-     wuji: {
-        api: 'https://api.wujinapi.com/api.php/provide/vod',
-        name: '无尽影视',
     },
      xinlang: {
         api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
@@ -139,10 +158,12 @@ const CUSTOMER_SITES = {
         name: '山海资源',
     },
      yzzy: {
+        api: 'https://api.hdzykapi.com/inc/apijson.php/json',
         api: 'https://api.yzzy-api.com/inc/apijson.php',
         name: '优质资源',
     },
      huya: {
+        api: 'https://huyazy.com/api.php/provide/vod/at/from/hym3u8',
         api: 'https://www.huyaapi.com/api.php/provide/vod',
         name: '虎牙资源',
     },
@@ -165,6 +186,18 @@ const CUSTOMER_SITES = {
     yh: {
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
         name: '樱花资源',
+    },
+     394: {
+        api: 'https://www.394tv.com/api.php/provide/vod/from/m3u8',
+        name: '394资源',
+    },
+    ckzy: {
+        api: 'https://ckzy.me/api.php/provide/vod/from/ckm3u8',
+        name: 'CK资源',
+    },
+     niuniu: {
+        api: 'https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8',
+        name: '牛牛资源',
     }
 };
 
