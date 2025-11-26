@@ -366,6 +366,9 @@ const CUSTOMER_SITES = {
         name: '最大资源',
     },
      wujin: {
+        api: 'https://api.wujinapi.cc/api.php/provide/vod',
+        api: 'https://api.wujinapi.co/api.php/provide/vod',
+        api: 'https://api.wujinapi.net/api.php/provide/vod',
         api: 'https://api.wujinapi.com/api.php/provide/vod',
         api: 'https://api.wujinapi.me/api.php/provide/vod',
         name: '无尽资源',
@@ -375,13 +378,11 @@ const CUSTOMER_SITES = {
         name: '新浪资源',
     },
      wwzy: {
+        api: 'https://subocaiji.com/api.php/provide/vod',
         api: 'https://wwzy.tv/api.php/provide/vod',
+         api: 'https://www.wwzy.tv/api.php/provide/vod',
         api: 'https://api.wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧',
-    },
-     subo: {
-        api: 'https://subocaiji.com/api.php/provide/vod',
-        name: '速播资源',
     },
     p2100: {
         api: 'https://p2100.net/api.php/provide/vod',
