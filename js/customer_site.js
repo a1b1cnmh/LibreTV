@@ -385,6 +385,7 @@ const CUSTOMER_SITES = {
         name: '旺旺短剧',
     },
     p2100: {
+        api: 'https://www.p2100.net/api.php/provide/vod',
         api: 'https://p2100.net/api.php/provide/vod',
         name: '飘零资源',
     },
