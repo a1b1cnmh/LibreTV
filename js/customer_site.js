@@ -437,6 +437,7 @@ const CUSTOMER_SITES = {
         name: '樱花资源',
     },
      394: {
+        api: 'https://394tv.com/api.php/provide/vod/from/m3u8',
         api: 'https://www.394tv.com/api.php/provide/vod/from/m3u8',
         name: '394资源',
     },
