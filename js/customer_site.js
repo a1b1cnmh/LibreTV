@@ -1,8 +1,5 @@
 const CUSTOMER_SITES = {
-    liangzi: {
-       api: 'https://cj.lzcaiji.com/api.php/provide/vod',
-       name: '量子资源',
-    },
+    
     dbzy: {
            api: 'https://caiji.dbzy.tv/api.php/provide/vod/at/json/',
            api: 'https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8',
