@@ -2,6 +2,27 @@ const CUSTOMER_SITES = {
     liangzi: {
        api: 'https://cj.lzcaiji.com/api.php/provide/vod',
        name: '量子资源',
+    },
+    dbzy: {
+           api: 'https://caiji.dbzy.tv/api.php/provide/vod/at/json/',
+           api: 'https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8',
+           api: 'https://www.dbzy5.com/api.php/provide/vod/from/dbm3u8',
+          api: 'https://dbzy5.com/api.php/provide/vod/from/dbm3u8',
+          api: 'https://www.dbzy3.com/api.php/provide/vod/from/dbm3u8',
+          api: 'https://dbzy3.com/api.php/provide/vod/from/dbm3u8',
+          api: 'https://www.dbzy1.com/api.php/provide/vod/from/dbm3u8',
+          api: 'https://dbzy1.com/api.php/provide/vod/from/dbm3u8',
+          api: 'https://www.dbzy.tv/api.php/provide/vod/from/dbm3u8',
+          api: 'https://dbzy.tv/api.php/provide/vod/from/dbm3u8',
+          api: 'https://doubanzy.net/api.php/provide/vod/from/dbm3u8',
+          api: 'https://www.doubanzy.net/api.php/provide/vod/from/dbm3u8',
+          api: 'https://www.doubanzy.cc/api.php/provide/vod/from/dbm3u8',
+          api: 'https://doubanzy.cc/api.php/provide/vod/from/dbm3u8',
+          api: 'https://www.doubanziyuan.net/api.php/provide/vod/from/dbm3u8',
+          api: 'https://doubanziyuan.net/provide/vod/from/dbm3u8',
+          api: 'https://www.doubanziyuan.com/api.php/provide/vod/from/dbm3u8',
+          api: 'https://doubanziyuan.com/provide/vod/from/dbm3u8',  
+        name: '豆瓣资源',
     }
 };
 
