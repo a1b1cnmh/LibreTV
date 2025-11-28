@@ -494,10 +494,6 @@ const CUSTOMER_SITES = {
         api: 'https://www.394tv.com/api.php/provide/vod/from/m3u8',
         name: '394资源',
     },
-    ckzy: {
-        api: 'https://ckzy.me/api.php/provide/vod/from/ckm3u8',
-        name: 'CK资源',
-    },
      niuniu: {
          api: 'https://niuniuzy1.com/api.php/provide/vod/from/nnm3u8',
          api: 'https://www.niuniuzy1.com/api.php/provide/vod/from/nnm3u8',
