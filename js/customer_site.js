@@ -1,8 +1,7 @@
 const CUSTOMER_SITES = {
     
     dbzy: {
-          
-          api: 'https://doubanziyuan.com/provide/vod/from/dbm3u8',  
+          api: 'https://caiji.dbzy5.com/api.php/provide/vod',  
         name: '豆瓣资源',
     }
 };
