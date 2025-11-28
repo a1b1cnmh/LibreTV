@@ -431,11 +431,6 @@ const CUSTOMER_SITES = {
         api: 'https://api.yzzy-api.com/inc/apijson.php',
         name: '优质资源',
     },
-     huya: {
-        api: 'https://huyazy.com/api.php/provide/vod/at/from/hym3u8',
-        api: 'https://www.huyaapi.com/api.php/provide/vod',
-        name: '虎牙资源',
-    },
     yaya: {
         api: 'https://yayazy1.com/api.php/provide/vod',
         api: 'https://www.yayazy1.com/api.php/provide/vod',
