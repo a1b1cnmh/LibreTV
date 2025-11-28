@@ -1,9 +1,9 @@
 const CUSTOMER_SITES = {
     
     dbzy: {
-           api: 'https://caiji.dbzy.tv/api.php/provide/vod/at/json/',
-           api: 'https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8',
-           api: 'https://www.dbzy5.com/api.php/provide/vod/from/dbm3u8',
+          api: 'https://caiji.dbzy.tv/api.php/provide/vod/at/json/',
+          api: 'https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8',
+          api: 'https://www.dbzy5.com/api.php/provide/vod/from/dbm3u8',
           api: 'https://dbzy5.com/api.php/provide/vod/from/dbm3u8',
           api: 'https://www.dbzy3.com/api.php/provide/vod/from/dbm3u8',
           api: 'https://dbzy3.com/api.php/provide/vod/from/dbm3u8',
