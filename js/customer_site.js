@@ -25,7 +25,7 @@ const CUSTOMER_SITES = {
         name: '如意资源',
     },
     liangzi: {
-       api: 'https://cj.lzcaiji.com/api.php/provide/vod/from/lzm3u8',
+       api: 'https://cj.lzcaiji.com/api.php/provide/vod',
        api: 'https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8',
        api: 'https://lzizy.net/api.php/provide/vod/from/lzm3u8',
        api: 'https://www.lzizy.net/api.php/provide/vod/from/lzm3u8',
