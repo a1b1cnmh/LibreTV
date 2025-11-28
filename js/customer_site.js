@@ -472,11 +472,6 @@ const CUSTOMER_SITES = {
        api: 'https://lzzy.tv/api.php/provide/vod/from/lzm3u8',
        name: '量子资源',
     },
-    lovedan: {
-        api: 'https://lovedan.net/api.php/provide/vod/from/m3u8/at/json',
-        api: 'https://www.lovedan.net/api.php/provide/vod/from/m3u8/at/json',
-        name: '艾旦资源',
-    },
     bdzy: {
         api: 'https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod',
         api: 'https://api.apibdzy.com/api.php/provide/vod',
@@ -522,6 +517,11 @@ const CUSTOMER_SITES = {
         api: 'https://m3u8.apiyhzy.com/api.php/seacms/vod',
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
         name: '樱花资源',
+    },
+    lovedan: {
+        api: 'https://lovedan.net/api.php/provide/vod/from/m3u8/at/json',
+        api: 'https://www.lovedan.net/api.php/provide/vod/from/m3u8/at/json',
+        name: '艾旦资源',
     },
     gaoqing: {
         api: 'https://api.yzzy-api.com/inc/api_mac10.php',
