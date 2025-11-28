@@ -20,11 +20,6 @@ const CUSTOMER_SITES = {
           api: 'https://doubanziyuan.com/api.php/provide/vod/from/dbm3u8',  
         name: '豆瓣资源',
     },
-     394: {
-        api: 'https://394tv.com/api.php/provide/vod/from/m3u8',
-        api: 'https://www.394tv.com/api.php/provide/vod/from/m3u8',
-        name: '394资源',
-    },
      taopian: {
         api: 'https://www.taopianapi.com/cjapi/mc/vod/json/m3u8.html',
         api: 'https://taopianapi.com/cjapi/mc/vod/json/m3u8.html',
@@ -515,6 +510,11 @@ const CUSTOMER_SITES = {
         api: 'https://www.suoniapi.com/api.php/provide/vod',
         api: 'https://suoniapi.com/api.php/provide/vod',
         name: '索尼资源',
+    },
+    394: {
+        api: 'https://394tv.com/api.php/provide/vod/from/m3u8',
+        api: 'https://www.394tv.com/api.php/provide/vod/from/m3u8',
+        name: '394资源',
     },
     yh: {
         api: 'https://www.yhzy.cc/api.php/provide/vod',
