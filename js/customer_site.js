@@ -504,34 +504,8 @@ const CUSTOMER_SITES = {
         api: 'https://huyazy.com/api.php/provide/vod/at/from/hym3u8',
         api: 'https://www.huyaapi.com/api.php/provide/vod',
         name: '虎牙资源',
-    },
-    liangzi: {     
-       api: 'https://cj.lzcaiji.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzizy.net/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzizy.net/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzizy.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzizy.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzizy1.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzizy1.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzizy2.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzizy2.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzizy3.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzizy3.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzizy4.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzizy4.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzizy5.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzizy5.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzizy6.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzizy6.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzizy7.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzizy7.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzizy8.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzizy8.com/api.php/provide/vod/from/lzm3u8',
-       api: 'https://www.lzzy.tv/api.php/provide/vod/from/lzm3u8',
-       api: 'https://lzzy.tv/api.php/provide/vod/from/lzm3u8',
-       name: '量子资源',
     }
+    
 };
 
 // 调用全局方法合并
