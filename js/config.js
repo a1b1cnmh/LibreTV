@@ -47,7 +47,7 @@ const API_SITES = {
        api: 'https://www.lzizy8.com/api.php/provide/vod/from/lzm3u8',
        api: 'https://www.lzzy.tv/api.php/provide/vod/from/lzm3u8',
        api: 'https://lzzy.tv/api.php/provide/vod/from/lzm3u8',
-       name: '量子资源',
+       name: '良子资源',
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
