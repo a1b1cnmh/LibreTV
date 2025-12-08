@@ -22,7 +22,7 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    liangzi: {
+   lzzy: {
        api: 'https://cj.lzcaiji.com/api.php/provide/vod/from/lzm3u8',
        api: 'https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8',
        api: 'https://lzizy.net/api.php/provide/vod/from/lzm3u8',
@@ -48,24 +48,7 @@ const API_SITES = {
        api: 'https://www.lzzy.tv/api.php/provide/vod/from/lzm3u8',
        api: 'https://lzzy.tv/api.php/provide/vod/from/lzm3u8',
        name: '良子资源',
-    },
-    jsu: {
-       api: 'https://jszyapi.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://www.jszy333.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://jszy333.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://jszy666.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://www.jszy666.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://jisuziyuan.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://www.jisuziyuan.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://jisuzy.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://jisuzy.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://jisuzy.tv/api.php/provide/vod/from/jsm3u8',
-       api: 'https://www.jisuzy.tv/api.php/provide/vod/from/jsm3u8',
-       api: 'https://jisuzy.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://www.jisuzy.com/api.php/provide/vod/from/jsm3u8',
-       api: 'https://www.jszyapi.com/api.php/provide/vod/from/jsm3u8',
-       name: '极速资源',
-       detail: 'https://jisuzy.tv' 
+       detail: 'https://lzzy.tv'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
