@@ -394,7 +394,7 @@ const CUSTOMER_SITES = {
        api: 'https://jisuzy.com/api.php/provide/vod/from/jsm3u8',
        api: 'https://www.jisuzy.com/api.php/provide/vod/from/jsm3u8',
        api: 'https://www.jszyapi.com/api.php/provide/vod/from/jsm3u8',
-       name: '极速资源',
+       name: '极速资源a',
     },
     guangsu: {
         api: 'https://api.guangsuapi.com/api.php/provide/vod',
