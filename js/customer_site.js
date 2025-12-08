@@ -379,7 +379,7 @@ const CUSTOMER_SITES = {
         api: 'http://cj.ffzyapi.com/api.php/provide/vod',
         name: '非凡资源',
     },
-     jsu: {
+     jisuzy: {
        api: 'https://jszyapi.com/api.php/provide/vod/from/jsm3u8',
        api: 'https://www.jszy333.com/api.php/provide/vod/from/jsm3u8',
        api: 'https://jszy333.com/api.php/provide/vod/from/jsm3u8',
@@ -394,7 +394,8 @@ const CUSTOMER_SITES = {
        api: 'https://jisuzy.com/api.php/provide/vod/from/jsm3u8',
        api: 'https://www.jisuzy.com/api.php/provide/vod/from/jsm3u8',
        api: 'https://www.jszyapi.com/api.php/provide/vod/from/jsm3u8',
-       name: '极速资源a',
+       name: '极速资源',
+       detail: 'https://jisuzy.tv' 
     },
     guangsu: {
         api: 'https://api.guangsuapi.com/api.php/provide/vod',
